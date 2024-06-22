@@ -1,0 +1,6 @@
+{
+    "serverName":"[id='dbname']",
+    "userName":"[id='userName']",
+    "password":"[id='password']",
+    "loginBtn":"[id='submitfocus']"
+}

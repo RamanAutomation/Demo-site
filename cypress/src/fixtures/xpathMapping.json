@@ -1,0 +1,14 @@
+{
+    "server":"//input[@id='dbname']",
+    "userName":"//input[@id='userName']",
+    "password":"//input[@id='password']",
+    "loginBtn":"//button[@id='submitfocus']",
+    "forgotPasswordLink":"//a[normalize-space()='Forgot Password?']",
+    "loginFailedPopup":"//div[@class='dialouge_content']",
+    "ErrorPopupOkbtn":"//button[normalize-space()='Ok']",
+    "serverInfoPopup":"//div[@class='dialouge_content']//div[2]",
+    "serverInfoPopupMessage":"//div[contains(text(),'Please Fill Server')]",
+    "serverWarningMsg":"//span[@for='dbname']",
+    "userWarningMsg":"//span[@for='userName']",
+    "passwordWarningMsg":"//span[@for='password']"
+}
